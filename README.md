@@ -120,7 +120,7 @@ H~2~O
 
 X^2^
 
-<h1 align="center">Hi 👋, I'm Gustavo</h1>
+<h1 align="center">Hi 👋, I'm Pavlo</h1>
 <h3 align="center">A passionate software engineer</h3>
 
 - 🔭 I’m currently working on [test](test)
