@@ -1,21 +1,7 @@
 ﻿<h1 align="center">Hi 👋, I'm Pavlo</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-- 🔭 I’m currently working on [test](test)
 
-- 🌱 I’m currently learning **test**
-
-- 👨‍💻 All of my projects are available at [test](test)
-
-- 📝 I regularly write articles on [test](test)
-
-- 💬 Ask me about **tesst**
-
-- 📫 How to reach me **test**
-
-- 📄 Know about my experiences [test](test)
-
-- ⚡ Fun fact **test**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
